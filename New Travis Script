@@ -1,0 +1,3 @@
+echo: %username% is logged in 
+echo: todays date is %DATE%
+pause
